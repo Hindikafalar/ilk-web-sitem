@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+
+
+<html>
+
+
+
+<head>
+
+<title>Hilmi'nin Web Sitesi</title>
+<link href="stil.css">
+<link rel="stylesheet" href="stil.css">
+
+
+</head>
+
+
+
+
+<body>
+    <h1>Siteye Hoş Geldin!</h1>
+
+    <p>Hilmi'nin sitesine hoş geldin!</p>
+    <p>Bu bir deneme sayfasıdır.</p>
+
+    <img src="https://images.wallpapersden.com/image/ws-amazing-outer-space-4k-galaxy_90986.jpg">
+
+    <a href="2. sayfa.html"> İkinci sayfaya gitmek için buraya tıklayınız.</a>
+
+    <div id="ww_0f71e4523222e" v='1.3' loc='id' a='{"t":"horizontal","lang":"en","sl_lpl":1,"ids":[],"font":"Arial","sl_ics":"one_a","sl_sot":"celsius","cl_bkg":"image","cl_font":"#FFFFFF","cl_cloud":"#FFFFFF","cl_persp":"#81D4FA","cl_sun":"#FFC107","cl_moon":"#FFC107","cl_thund":"#FF5722"}'>Weather Data Source: <a href="https://wetterlabs.de/wetter_frankreich/" id="ww_0f71e4523222e_u" target="_blank">Wetter fur Frankreich</a></div><script async src="https://app2.weatherwidget.org/js/?id=ww_0f71e4523222e"></script><script type="text/javascript" src="https://www.html-widgets.com/j/weather.js"></script><div id="weather"></div><div class="weather" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div><div id="showweather"></div><div class="showweather" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
+
+    
+</body>
+
+
+
+
+
+</html>
